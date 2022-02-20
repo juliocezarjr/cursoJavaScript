@@ -10,5 +10,3 @@ app.get('/produtos' , (req, res, next) => {
 app.listen(porta, () => {
     console.log(`Servidor está executando na porta ${porta}.`)
 })
-
-// teste
