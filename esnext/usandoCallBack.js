@@ -11,3 +11,4 @@ falarDepois(3, "Deu certo")
 // setTimeout(()=>console.log(frase), 2000)
 
 // teste.
+// teste 1
