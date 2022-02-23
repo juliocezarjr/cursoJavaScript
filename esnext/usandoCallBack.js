@@ -9,3 +9,5 @@ falarDepois(3, "Deu certo")
 // const frase = 'Deu certo'
 
 // setTimeout(()=>console.log(frase), 2000)
+
+// teste.
